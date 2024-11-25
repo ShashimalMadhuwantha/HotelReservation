@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formhallreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formhallreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formhallreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formhallreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formbookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formbookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formroomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formroomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|c:\\users\\shash\\onedrive\\desktop\\gui\\hotelreservationapp\\hotelreservationapp\\formreservationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formreservationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formroomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formroomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formbookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formbookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formreservationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formreservationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|c:\\users\\shash\\onedrive\\desktop\\gui\\hotelreservationapp\\hotelreservationapp\\formhallreservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formhallreservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|c:\\users\\shash\\onedrive\\desktop\\gui\\hotelreservationapp\\hotelreservationapp\\formhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\formcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\formcheckout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\hotelreservationapp\\classconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC464E-5958-457D-81F2-56CAAF352DB3}|HotelReservationApp\\HotelReservationApp.csproj|solutionrelative:hotelreservationapp\\classconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormCheckOut.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormCheckOut.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormCheckOut.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormCheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:56:13.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHallReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHallReservation.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormHallReservation.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHallReservation.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormHallReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:25:17.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHallReservation.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHallReservation.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormHallReservation.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHallReservation.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormHallReservation.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:31:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHome.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormHome.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHome.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:19:00.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormLogIn.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormLogIn.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormLogIn.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormLogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:55:13.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBookingRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormBookingRoom.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormBookingRoom.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormBookingRoom.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormBookingRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:50:07.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:23:30.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormAdmin.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormAdmin.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAMwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:29:56.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormRoomReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormRoomReservation.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormRoomReservation.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormRoomReservation.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormRoomReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:46:51.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormReservationHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormReservationHistory.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormReservationHistory.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormReservationHistory.cs [Design]",
+              "RelativeToolTip": "HotelReservationApp\\FormReservationHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:24:48.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormCheckOut.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormCheckOut.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormCheckOut.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormCheckOut.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAhwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:04:01.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormRoomReservation.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormRoomReservation.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormRoomReservation.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormRoomReservation.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormRoomReservation.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAMwDMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:50:15.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\Program.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\Program.cs",
+              "RelativeToolTip": "HotelReservationApp\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:20:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBookingRoom.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormBookingRoom.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormBookingRoom.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormBookingRoom.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormBookingRoom.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAD4v7sAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:56:57.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormLogIn.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormLogIn.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormLogIn.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormLogIn.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormLogIn.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAewDwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:07:14.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormReservationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormReservationHistory.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormReservationHistory.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormReservationHistory.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormReservationHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:27:43.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormHallReservation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHallReservation.Designer.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormHallReservation.Designer.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHallReservation.Designer.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormHallReservation.Designer.cs",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAIwE8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:50:53.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormHome.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHome.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormHome.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHome.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormHome.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAMwD8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:22:54.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormCheckOut.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormCheckOut.Designer.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormCheckOut.Designer.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormCheckOut.Designer.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormCheckOut.Designer.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwIcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:10:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHome.Designer.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\FormHome.Designer.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\FormHome.Designer.cs",
+              "RelativeToolTip": "HotelReservationApp\\FormHome.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:42:27.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClassConnection.cs",
+              "DocumentMoniker": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\ClassConnection.cs",
+              "RelativeDocumentMoniker": "HotelReservationApp\\ClassConnection.cs",
+              "ToolTip": "C:\\Users\\shash\\OneDrive\\Desktop\\gui\\HotelReservationApp\\HotelReservationApp\\ClassConnection.cs",
+              "RelativeToolTip": "HotelReservationApp\\ClassConnection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:06:11.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
